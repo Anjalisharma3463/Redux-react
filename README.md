@@ -225,4 +225,39 @@ The same process happens for **decrementing** the counter.
 ## **Next Steps**
 - Try adding a **Reset** button.
 - Learn **Redux Toolkit**, which makes Redux easier.
+
+
+ ---------->>>>>>>> Learn Redux Toolkit (RTK)
+Redux Toolkit (RTK) simplifies Redux and reduces boilerplate code. It is the recommended way to use Redux today.
+
+👉 What to Learn in Redux Toolkit:
+
+configureStore() (Replaces createStore)
+createSlice() (Replaces Reducers + Actions)
+useSelector and useDispatch (Same as before)
+Redux Toolkit with Async Thunks (For API calls)
+
+--------------------------------------------------------------------------
+
+Connect Redux with API Calls
+Instead of using local state, you can fetch data from an API and store it in Redux.
+
+👉 Topics to Learn:
+
+RTK Query (For API calls)
+Async Thunks (For handling asynchronous state)
+Loading & Error States in Redux
+
+
+-----------------------------
+
+Learn Middleware (Redux Logger, Redux Thunk)
+Middleware helps in logging actions and handling async operations.
+
+👉 Topics to Learn:
+
+Redux Logger (Logs actions for debugging)
+Redux Thunk (Handles async state updates)
+Custom Middleware (For advanced use cases)
+----------------------------------------
  
